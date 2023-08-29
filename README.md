@@ -20,3 +20,21 @@
 8. https://github.com/lballabio/quantlib
 9. https://github.com/OpenSourceRisk
 
+10. https://github.com/imanuelcostigan/dataonderivatives
+
+## Rule book
+1. https://www.tradeweb.com/4a4635/globalassets/our-businesses/market-regulation/sef-aug-22-2022/dw-sef-rulebook---current-version-9.6.22.pdf
+2. http://imanuelcostigan.github.io/dataonderivatives/
+
+## Websites
+1. https://pddata.dtcc.com/gtr/cftc/dashboard.do
+2. https://data.bloombergsef.com/
+3. https://www.cftc.gov/IndustryOversight/DataRepositories/index.htm
+4. https://www.cmegroup.com/trading/global-repository-services/cme-swap-data-repository.html
+5. https://www.cftc.gov/MarketReports/SwapsReports/index.htm
+6. https://www.ice.com/technology/post-trade
+7. https://tpicap.com/tpicap/regulatory-hub/tp-icap-sef
+8. https://www.tullettprebon.com/swap-execution-facility/
+9. https://www.tradeweb.com/our-markets/market-regulation/sef/
+
+
